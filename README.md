@@ -9,15 +9,6 @@ BASE HTML ULTIMATEREALL
 GW CUMA NAMBAH FITUR DOANG NGAB
 GW BLOM FIX YG ERROR KRNA BELOM NGERTI :V
 
-## ```How to install```
-
-[`Click Here For Tutorial`](https://youtu.be/POjBjZx9tvY)<br>
-
-<p align="center">
-  <a href="https://youtu.be/POjBjZx9tvY"><img src="https://f.top4top.io/p_207542cfh1.jpg" />
-</p>
-
-
 ## ```Api Features```
 
 1. ```𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙 & 𝙎𝙤𝙘𝙞𝙖𝙡 𝙈𝙚𝙙𝙞𝙖 🤳 ```
